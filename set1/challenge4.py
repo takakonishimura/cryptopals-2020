@@ -55,7 +55,7 @@ def bruteForce(cipherText):
     return sorted(freqScoreChart, key = lambda x: x[1], reverse=True)[0]
 
 if __name__ == '__main__':
-    with open("four.txt", "r") as f:
+    with open("set1/four.txt", "r") as f:
         finalScoreChart = list()
 
         for l, line in enumerate(f): 
