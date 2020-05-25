@@ -7,7 +7,7 @@ Find it.
 (Your code from #3 should help.)
 """
 def fixedByteStringXOR(cipherBytes, xorByte):
-    output = b''
+    output = b""
     for byte in cipherBytes:
         output += bytes([byte ^ xorByte])
 
