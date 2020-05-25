@@ -12,5 +12,7 @@
 #python set1/challenge5.py
 #echo '------------------ CHALLENGE 6 ---------------------'
 #python set1/challenge6.py
-echo '------------------ CHALLENGE 7---------------------'
-python set1/challenge7.py
+#echo '------------------ CHALLENGE 7---------------------'
+#python set1/challenge7.py
+echo '------------------ CHALLENGE 8---------------------'
+python set1/challenge8.py
